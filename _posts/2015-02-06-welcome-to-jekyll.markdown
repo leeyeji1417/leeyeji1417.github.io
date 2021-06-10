@@ -6,8 +6,15 @@ categories: update
 ---
 
 <img src="{{ site.baseurl }}/images/pic01.jpg">
-Suspendisse pellentesque mollis turpis, vitae ullamcorper arcu sagittis in. Pellentesque viverra, diam vel ultrices lobortis, urna diam efficitur diam, non ultricies enim massa et neque. Mauris lacinia purus nibh, ac consequat mi molestie ac. Suspendisse at sapien ac magna posuere imperdiet eget id nisi. Nulla facilisi. Pellentesque id magna eu sapien consectetur pulvinar nec eget massa. Nunc ut volutpat felis. Vestibulum pharetra ligula vel mattis aliquam. Etiam tempor vitae nulla nec euismod. Vivamus eget justo libero. Curabitur dictum, turpis vel porttitor semper, elit turpis vehicula nibh, quis mollis metus tortor at magna.
+공학의 기본지식과 응용능력을 갖춘 창의적인 컴퓨터공학인의 양성
 
-Maecenas posuere sodales magna id tincidunt. Nunc sapien ipsum, efficitur et mauris nec, tristique gravida leo. Donec at bibendum lectus, sit amet fringilla risus. Donec et justo mi. In risus risus, faucibus eget eros eget, tincidunt posuere purus. Maecenas porta lacus metus, nec varius enim egestas ac. In hac habitasse platea dictumst. Nullam a nisi nulla. Nam vel varius enim, sit amet fringilla massa. Proin vel aliquam felis, quis scelerisque arcu.
+기존의 전통적인 이론과 기술은 물론 최근에 새롭게 등장한 전자계산학 분야에 대한 이애가 필수적입니다. 이러한 사회적 기술적 상황에 부응하기 위해서는 다음과 같은 분야를 수행해야 합니다. (프로젝트 수행을 통한 응용 능력 및 창의성 개발)
 
-Sed consequat mi id malesuada efficitur. Vestibulum efficitur tortor ut dictum porta. Morbi dapibus viverra risus, et laoreet lorem commodo et. Donec hendrerit posuere magna a efficitur. Nullam euismod eget nulla eget iaculis. Donec porttitor faucibus porta. Morbi et risus dolor. Mauris venenatis sem id neque hendrerit ultrices.
++ 일반수학, 통계학 선형대수, 기초전자공학 등의 전자게산학을 위한 기초 분야
++ C, Pascal, Cobol, C++ 등의 각종 프로그래밍 언어 교육 분야
++ 자료구조, 프로그래밍언어, 데이터베이스 등의 전통적인 전자 계산학 분야
++ 논리회로, 계산기 구조론, 마이크로프로세서 등의 하드웨어 설계 및 개발 분야
++ 컴파일러, 운영체제 등의 시스템 프로그래밍 분야
++ 컴퓨터 네트워크, 데이터 통신 등의 정보통신분야
++ 그래픽, 멀티미디어, 객체지향, 인터넷 등과 관계된 첨단학문 분야
++ 시스템 분석, 소프트웨어공학 등의 관리 분야 알고리즘, 성능평가, 수치해석 등의 분석 이론 위주 분야
